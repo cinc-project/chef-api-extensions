@@ -47,3 +47,6 @@ server's real capabilities should say so.
 | [0004](0004-streaming-run-status-endpoint.md) | A streaming (WebSocket/SSE) endpoint for live run status | Proposed |
 </content>
 </invoke>
+| [0005](0005-cookbook-list-counts-and-latest-metadata.md) | Return version counts and latest metadata on the cookbook list | Proposed |
+| [0006](0006-org-list-for-non-superusers.md) | List the organizations the caller can see instead of all-or-403 | Proposed |
+| [0007](0007-search-sort.md) | Server-side sort for search | Proposed |
