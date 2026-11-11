@@ -60,8 +60,9 @@ operator that a key is dead.
    "populated by list responses" caveat and `key show` displays it as-is.
 
 2. **cinc-server-ng first, behind the proposal.** cinc-server-ng returned
-   `"expired": false` on the synthesized default key until
-   cinc-project/cinc-server-ng#266 removed it for parity with erchef. If this
+   `"expired": false` on the synthesized default key;
+   cinc-project/cinc-server-ng#267 (fixing #266) removes it for parity with
+   erchef. If this
    proposal is accepted, cinc-server-ng can return a computed `expired` on every
    single-key body (stored and synthesized alike), recorded as a deliberate
    extension in its differential baseline rather than as debt.
