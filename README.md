@@ -49,3 +49,4 @@ server's real capabilities should say so.
 | [0006](0006-org-list-for-non-superusers.md) | List the organizations the caller can see instead of all-or-403 | Proposed |
 | [0007](0007-search-sort.md) | Server-side sort for search | Proposed |
 | [0008](0008-single-key-expired.md) | Report `expired` on a single key, not only in the key list | Proposed |
+| [0009](0009-object-timestamps.md) | Expose when each object was created and last changed | Proposed |
