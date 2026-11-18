@@ -50,3 +50,4 @@ server's real capabilities should say so.
 | [0007](0007-search-sort.md) | Server-side sort for search | Proposed |
 | [0008](0008-single-key-expired.md) | Report `expired` on a single key, not only in the key list | Proposed |
 | [0009](0009-object-timestamps.md) | Expose when each object was created and last changed | Proposed |
+| [0010](0010-run-and-change-history.md) | Record runs and config changes, and show what each change led to | Proposed |
